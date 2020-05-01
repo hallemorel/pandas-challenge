@@ -6,72 +6,72 @@ With the given purchase_data.csv file, I was tasked with calculating and finding
 
 -Purchasing Analysis
 
-  Number of Unique Items
+    Number of Unique Items
   
-  Average Purchase Price
+    Average Purchase Price
   
-  Total Number of Purchases
+    Total Number of Purchases
   
-  Total Revenue
+    Total Revenue
   
 -Gender Demographics
 
-  Percentage and Count of Male Players
+    Percentage and Count of Male Players
   
-  Percentage and Count of Female Players
+    Percentage and Count of Female Players
   
-  Percentage and Count of Other / Non-Disclosed
+    Percentage and Count of Other / Non-Disclosed
   
 -Purchasing Analysis by Gender
 
-  Purchase Count
+    Purchase Count
   
-  Average Purchase Price
+    Average Purchase Price
   
-  Total Purchase Value
+    Total Purchase Value
   
-  Average Purchase Total per Person by Gender
+    Average Purchase Total per Person by Gender
   
 -Age Demographics
 
-  Purchase Count
+    Purchase Count
   
-  Average Purchase Price
+    Average Purchase Price
   
-  Total Purchase Value
+    Total Purchase Value
   
-  Average Purchase Total per Person by Age Group
+    Average Purchase Total per Person by Age Group
   
 -Top Spenders
 
-  SN
+    SN
   
-  Purchase Count
+    Purchase Count
   
-  Average Purchase Price
+    Average Purchase Price
   
-  Total Purchase Value
+    Total Purchase Value
   
 Most Popular Items
 
-  Item ID
+    Item ID
   
-  Item Name
+    Item Name
   
-  Purchase Count
+    Purchase Count
   
-  Item Price
+    Item Price
   
-  Total Purchase Value
+    Total Purchase Value
   
 -Most Profitable Items
 
-  Item ID
+    Item ID
   
-  Item Name
+    Item Name
   
-  Purchase Count
+    Purchase Count
   
-  Item Price
+    Item Price
   
-  Total Purchase Value
+    Total Purchase Value
